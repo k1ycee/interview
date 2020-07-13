@@ -1,0 +1,17 @@
+import 'package:interview/models/event_model.dart';
+
+
+List<EventModel> events = [
+  EventModel(duration: "23 Aug - 29 Aug",favourite: 1,rating: 4.9,eventName: "ALA '20",location: "Johannesburg, South Africa",image: "assets/johan.jpg",description: "The African Legal Awards recognise exceptional achievement within Africa's legal community during a period of rapid change.",),
+  EventModel(duration: "13 Aug - 15 Aug",favourite: 0,rating: 4.7,eventName: "CLA '20",location: "Connecticut, USA",image: "assets/connecticut.jpg",description: "Connecticut Law Tribune honors attorneys and judges who have made a remarkable difference in the legal profession in Connecticut.",),
+  EventModel(duration: "3 Sep - 7 Sep",favourite: 1,rating: 4.3,eventName: "WIPL '20",location: "Washington DC, USA",image: "assets/dc.jpg",description:  "WIPL is the original global forum facilitating women-to-women exchange on leadership and legal issues.",),
+  EventModel(duration: "17 Sep - 20 Sep",favourite: 0,rating: 4.0,eventName: "TLA '20",location: "Texas, USA",image: "assets/texas.jpg",description: "The Texas Lawyer honors attorneys and judges who have made a remarkable difference in the legal profession in Texas.",),
+  EventModel(duration: "20 Sep - 2 Oct",favourite: 1,rating: 4.8,eventName: "NJLA '20",location: "New Jersey, USA",image: "assets/new_york.jpg",description: "The Legal Intelligencer honors lawyers leaving a mark on the legal community in New Jersey with their dedication to the profession",),
+  EventModel(duration: "12 Oct - 15 Oct",favourite: 0,rating: 4.7,eventName: "BLRF '20",location: "London, UK",image: "assets/london1.jpg",description: "Delivers the key insights and practical solutions to acutely address the complex minefield of UK banking litigation & regulation.",),
+  EventModel(duration: "25 Oct - 28 Oct",favourite: 1,rating: 4.7,eventName: "CLPA '20",location: "Beijing, China",image: "assets/beijing.jpg",description: "Law firms & in-house legal departments with a presence in the middle east celebrate outstanding achievement within the profession.",),
+  EventModel(duration: "7 Nov - 11 Nov",favourite: 0,rating: 4.7,eventName: "GCS '20",location: "Birmingham, UK",image: "assets/birmingham.jpg",description: "General Counsel Summit is the premier event for in-house counsel, hosting esteemed legal minds from all sectors of the economy.",),
+  EventModel(duration: "18 Nov - 20 Nov",favourite: 1,rating: 4.7,eventName: "GCC '20",location: "London, UK",image: "assets/somewhere.jpg",description: "General Counsel Conference addresses trends in regulatory, data protection, tech management, legal operations, and leadership.",),
+  EventModel(duration: "27 Nov - 29 Nov",favourite: 0,rating: 4.7,eventName: "NBA '20",location: "Seoul, Korea",image: "assets/seoul.jpg",description: "Legal professionals from In-House, Private Practice and the Bar work together to overcome challenges facing dispute resolution.",),
+  EventModel(duration: "7 Aug - 10 Aug",favourite: 1,rating: 4.7,eventName: "IFBA '20",location: "Cairo, Egypt",image: "assets/egypt.jpg",description: "Legal professionals from In-House, Private Practice and the Bar work together to overcome challenges facing dispute resolution.",),
+  EventModel(duration: "28 Aug - 31 Jul",favourite: 0,rating: 4.7,eventName: "CLA '20",location: "London, UK",image: "assets/connecticut.jpg",description: "Celebrating achievement, excellence, and innovation in the legal profession in the UK.",)
+];

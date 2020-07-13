@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+const Color search = Color(0xff8193AE);
+const Color favTab = Color(0xffFF724C);
+const Color helloText = Color(0xffA9A9A9);
+const Color lawType = Color(0xff3C4A6B);
+const Color litgationbg = Color(0xffE9FEFC);
+const Color bankingbg = Color(0xffF2F3FF);
+const Color coopratebg = Color(0xffFFFCEE);
+const Color familybg = Color(0xffFFF4F1);
+const Color topLevents = Color(0xff3C4A6B);
+const Color favheart = Color(0xffFF6A6A);
+const Color location = Color(0xffB3B6CB);
+const Color date = Color(0xff9296B0);
+const Color overview = Color(0xffF9663E);
+const Color plan = Color(0xffCECECE);
+const Color detail = Color(0xff8193AE);
+const Color favpage = Color(0xffFF4040);
+const Color tile = Color(0xffF4F4F4);
+const Color bottom = Color(0xffFEF3F0);
+const Color bodyLight = Color(0xffFFFFFF);
+const Color detStar = Color(0xffa9a9a9);
